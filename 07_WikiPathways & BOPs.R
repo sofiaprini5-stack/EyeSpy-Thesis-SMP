@@ -1,7 +1,5 @@
 # =============================================================================
 # 07_BOPs_(RMV).R
-# MiBLEND Thesis — Sofia M. Prini
-# Maastricht University | 2025-2026
 #
 # Purpose: Complete Cytoscape script for all 5 BOPs and physiological map
 #          Single merged script — replaces ALL_BOPs_complete.R
