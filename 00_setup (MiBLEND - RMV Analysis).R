@@ -1,6 +1,6 @@
 # =============================================================================
 # 00_setup.R
-# MiBLEND Thesis — Sofia M. Prini
+# Bachelor Thesis, Based on MiBLEND study — Sofia M. Prini
 # Maastricht University | 2025-2026
 #
 # Load all libraries, define file paths, and set shared options.
