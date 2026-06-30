@@ -1,7 +1,5 @@
 # =============================================================================
 # 03_clinical_models.R
-# MiBLEND Thesis — Sofia M. Prini
-# Maastricht University | 2025-2026
 #
 # Purpose: Run linear mixed models (LMMs) for CRAE, CRVE and AVR.
 #          Generate trajectory plots and genetic group forest plot.
